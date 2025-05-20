@@ -19,3 +19,5 @@ If you appreciate the intersection of classic artistry and digital innovation, c
 [![Sponsor Naomi](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=flat-square)](https://github.com/sponsors/NaomiMcQuade)
 
 ## 📫 Let's Connect
+## creditriverdesigns@gmail.com 
+
