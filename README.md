@@ -1,7 +1,7 @@
 @NaomiMcQuade here
 
 
-<!---Here is your updated README.md file for the root of the naOmi repository. You can copy and paste this, and manually fill in your portfolio, Instagram, LinkedIn, and email as you prefer.
+.
 
 ````markdown name=README.md
 # 👋 Hi, I'm Naomi McQuade
@@ -24,12 +24,3 @@ If you appreciate the intersection of classic artistry and digital innovation, c
 [![Sponsor Naomi](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=flat-square)](https://github.com/sponsors/NaomiMcQuade)
 
 ## 📫 Let's Connect
-- Portfolio: _[Add your portfolio link here]_
-- Instagram: _[Add your Instagram handle]_
-- LinkedIn: _[Add your LinkedIn profile]_
-- Email: _[Add your email address]_
-
----
-
-_Still learning, always creating. Thank you for stopping by!_
-````
