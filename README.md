@@ -1,9 +1,4 @@
 @NaomiMcQuade here
-
-
-.
-
-````markdown name=README.md
 # 👋 Hi, I'm Naomi McQuade
 
 I'm a traditional visual artist who found a new dimension through 3D software. My creative journey blends hands-on art with digital mastery—trained in tools like Softimage, 3D Studio Max, Maya, Pointstream, and designing on a Wacom tablet. I believe that the old and the new can work together to create something unique.
